@@ -18,9 +18,9 @@ body {
 }
 
 
-/* =========================
-   NAVBAR
-========================= */
+
+   /* NAVBAR */
+
 
 header {
     position: sticky;
@@ -75,9 +75,7 @@ header {
 }
 
 
-/* =========================
-   GENERAL
-========================= */
+/* General */
 
 .section {
     max-width: 1150px;
@@ -122,9 +120,7 @@ header {
 }
 
 
-/* =========================
-   HERO
-========================= */
+/* Hero */
 
  .hero {
      min-height: calc(100vh - 70px);
@@ -265,9 +261,7 @@ header {
 }
 
 
-/* =========================
-   ABOUT
-========================= */
+/* About */
 
 .about-content {
     display: grid;
@@ -314,9 +308,7 @@ header {
 }
 
 
-/* =========================
-   EDUCATION
-========================= */
+/* Education */
 
 .timeline {
     position: relative;
@@ -385,9 +377,7 @@ header {
 }
 
 
-/* =========================
-   SKILLS
-========================= */
+/* Skills */
 
 .skills-grid {
     display: grid;
@@ -462,10 +452,7 @@ header {
 }
 
 
-/* =========================
-   PROJECTS
-========================= */
-
+/* Projects */
 .projects-grid {
     display: grid;
 
@@ -564,9 +551,7 @@ header {
 }
 
 
-/* =========================
-   CONTACT
-========================= */
+/* Contact */
 
 .contact-container {
     display: grid;
@@ -713,10 +698,7 @@ header {
     color: #374151;
 }
 
-
-/* =========================
-   FOOTER
-========================= */
+/* Footer */
 
 footer {
     border-top: 1px solid #e5e7eb;
@@ -739,9 +721,7 @@ footer {
     border: 1px solid #e5e7eb;
 }
 
-/* =========================
-   RESPONSIVE
-========================= */
+/* Response */
 
 @media (max-width: 850px) {
 
